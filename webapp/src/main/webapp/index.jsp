@@ -1,7 +1,3 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
-<p>This is to check the chain of reaction that can happen, if we trigger some change</p>
-<strong>Where has it gone? Checking here also!!</strong>
-<h1>Checking out with PollSCM and Ansible.</h1>
-<p>The work over here is funny. It requires less effort. Fully automated!!</p>
+<h1>Sanoj Mathew</h1>
+<p>I am a software developer, working on Python and Devops now. Its been a long time, since I have coded in Python. Lot of things have changed around here. There was some structure, there was some features, and much more.</p>
+<p>I am using AWS for the first time. I did not think it was this easy. Let me try to deploy some Flask application next time..</p>
