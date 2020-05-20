@@ -3,3 +3,5 @@
 <h2> Glad to see you here </h2>
 <p>This is to check the chain of reaction that can happen, if we trigger some change</p>
 <strong>Where has it gone? Checking here also!!</strong>
+<h1>Checking out with PollSCM and Ansible.</h1>
+<p>The work over here is funny. It requires less effort. Fully automated!!</p>
